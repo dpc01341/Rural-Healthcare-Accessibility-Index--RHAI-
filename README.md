@@ -330,3 +330,5 @@ Arsalan Kaleem — arsalanabbasi.here@gmail.com
 Corrections and challenges to these numbers are welcome. If you hold facility coordinate
 data for Sindh and are willing to share it, please get in touch — a complete facility
 register would be the largest single improvement to this work.
+
+<!-- auto-update 2022-03-02 10:15:43 -->
